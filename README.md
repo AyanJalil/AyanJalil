@@ -31,7 +31,6 @@ Backend:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayanjalil&show_icons=true&theme=radical" alt="Ayan's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanjalil&theme=radical" alt="Ayan's GitHub streak"/>
 </p>
 
 ---
