@@ -6,7 +6,7 @@
 - 👯 I’m open to collaborating on **React.js / MERN projects**
 - 💬 Ask me about **React, Context API, Node.js, Express, MongoDB**
 - 🧠 Final Year Project: Genuine Vision – a Deepfake Video Detector using GANs & AI
-- 📫 Reach me at **ayanjalil19@gmail.com**
+- 📫 Reach me at **ayanjalil19@gmail.com** **+923209819601**
 
 ---
 
