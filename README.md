@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ayan Jalil</h1>
-<h3 align="center">A passionate Frontend/MERN Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **a full-stack user authentication and profile management system**
+- 🔭 I’m currently working with **Teknotize as a Software Engineer(MERN)**
 - 🌱 I’m learning **Angular 18** alongside improving React and Node.js
 - 👯 I’m open to collaborating on **React.js / MERN projects**
 - 💬 Ask me about **React, Context API, Node.js, Express, MongoDB**
-- 🧠 Final Year Project: Genuine Vision – a Deepfake Video Detector using GANs & AI
 - 📫 Reach me at **ayanjalil19@gmail.com** **+923209819601**
 
 ---
